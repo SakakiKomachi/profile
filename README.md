@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SakakiKomachi</h1>
 <h3 align="center">Not a professional frontend programmer, but I will one day!!</h3>
 
-![logo](https://github.com/SakakiKomachi/profile/blob/main/template%20jadi.png)
+![logo](https://github.com/SakakiKomachi/profile/blob/main/template%20yaemiko.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakakikomachi&label=Profile%20views&color=0e75b6&style=flat" alt="sakakikomachi" /> </p>
 
